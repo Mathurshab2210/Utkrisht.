@@ -575,6 +575,15 @@ section{
 .footer .credit span{
     color:var(--main-color);
 }
+.footer .contact {
+    color: #ccc;
+    font-size: 14px;
+}
+video {
+    position: relative;
+    float: right;
+    bottom: 100px;
+}
 
 
 
